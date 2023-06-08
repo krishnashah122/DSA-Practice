@@ -1,5 +1,6 @@
 // Prime numbers upto N.
 
+// Algorithm Used : Sieve of Erantosthenes
 // Time Complexity : O(nLogLogn)
 
 #include <iostream>
@@ -27,7 +28,9 @@ using namespace std;
 //     }
 // }
 
+
 //Shorter code having same Time Complexity
+
 void SieveOfEratosthenes(int n){
     vector<bool> isPrime(n+1, true);
     isPrime[0] = false;

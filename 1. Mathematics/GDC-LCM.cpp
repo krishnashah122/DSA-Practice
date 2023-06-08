@@ -1,5 +1,6 @@
 // LCM and GDC/HCF (GFG)
 
+// Algorithm Used : Euclidean
 // Time Complexity : O(Log(min(n1, n2)))
 
 #include <bits/stdc++.h>
