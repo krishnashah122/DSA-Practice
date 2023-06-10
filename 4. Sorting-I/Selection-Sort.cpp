@@ -1,4 +1,6 @@
-// Selection Sort (Code Studio)
+// Selection Sort (Code Studio & GFG)
+// Code Studio Link : https://www.codingninjas.com/codestudio/problems/selection-sort_981162
+// GFG Link : https://bit.ly/3ppA6YJ
 
 // Time Complexity : O(n^2)
 // Space Complexity : O(1)

@@ -1,4 +1,6 @@
-// Quick Sort (Code Studio)
+// Quick Sort (Code Studio & GFG)
+// Code Studio Link : https://www.codingninjas.com/codestudio/problems/quick-sort_983625
+// GFG Link : https://bit.ly/3dsEbIK
 
 // Best & Average Time Complexity : O(nlogn)
 // Worst Time Complexity : O(n^2)

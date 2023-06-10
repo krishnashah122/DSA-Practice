@@ -1,4 +1,6 @@
-// Insertion Sort (Code Studio)
+// Insertion Sort (Code Studio & GFG)
+// Code Studio Link : https://www.codingninjas.com/codestudio/problems/insertion-sort_3155179
+// GFG Link : https://bit.ly/3JVcqot
 
 // Best Time Complexity : O(n)
 // Average & Worst Time Complexity : O(n^2)

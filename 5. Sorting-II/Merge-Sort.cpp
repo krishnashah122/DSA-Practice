@@ -1,4 +1,6 @@
-// Merge Sort (Code Studio)
+// Merge Sort (Code Studio & GFG)
+// Code Studio Link : https://www.codingninjas.com/codestudio/problems/merge-sort_920442
+// GFG Link : https://bit.ly/3A30Anw
 
 // Time Complexity : O(logn)
 // Space Complexity : O(n)

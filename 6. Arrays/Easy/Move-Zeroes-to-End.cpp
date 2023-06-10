@@ -1,4 +1,6 @@
 // Move Zeroes to End (Leetcode & GFG)
+// Leetcode Link : https://leetcode.com/problems/move-zeroes/
+// GFG Link : https://bit.ly/3PrGIjT
 
 // Algorithm Used : Two Pointer Technique
 // Time Complexity : O(n)

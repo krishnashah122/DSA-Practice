@@ -1,4 +1,6 @@
 // Remove Duplicates from Sorted Array (Leetcode & GFG)
+// Leetcode Link : https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+// GFG Link : https://bit.ly/3w7b6ck
 
 // Algorithm Used : Two Pointer Technique
 // Time Complexity : O(n)

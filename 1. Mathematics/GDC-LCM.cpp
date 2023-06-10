@@ -1,4 +1,5 @@
 // LCM and GDC/HCF (GFG)
+// GFG Link : https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1
 
 // Algorithm Used : Euclidean
 // Time Complexity : O(Log(min(n1, n2)))

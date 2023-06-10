@@ -1,4 +1,6 @@
-// Bubble Sort (Code Studio)
+// Bubble Sort (Code Studio & GFG)
+// Code Studio Link : https://www.codingninjas.com/codestudio/problems/bubble-sort_980524
+// GFG Link : https://bit.ly/3w6yQx8
 
 // Best Time Complexity : O(n)
 // Average & Worst Time Complexity : O(n^2)

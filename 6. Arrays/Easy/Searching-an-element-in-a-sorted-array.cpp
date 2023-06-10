@@ -1,4 +1,5 @@
-// Searching an element in a sorted array
+// Searching an element in a sorted array (GFG)
+// GFG Link : https://bit.ly/3KcpHcB
 
 // Algorithm Used : Binary Search
 // Time Complexity : O(Logn)
