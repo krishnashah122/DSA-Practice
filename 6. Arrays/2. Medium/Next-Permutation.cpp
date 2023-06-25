@@ -27,7 +27,7 @@ public:
             return;
         }
 
-        // step 2: find the next greater elemet if nums[index] and swap it with nums[index]
+        // step 2: find the next greater element if nums[index] and swap it with nums[index]
         for(int i = n-1; i > index; i--){
             if(nums[i] > nums[index]){
                 swap(nums[i], nums[index]);
