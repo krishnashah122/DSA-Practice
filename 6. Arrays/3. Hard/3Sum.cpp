@@ -14,7 +14,7 @@ public:
         sort(nums.begin(), nums.end()); // O(nLogn)
 
         for(int i = 0; i < nums.size(); i++){ // O(n)
-            // if not nums[0] and nums[i] not same as nums[i-1] then continue
+            // avoid the duplicates while moving i
             if(i > 0 && nums[i] == nums[i-1]) continue;
             // 2 pointers
             int j = i + 1;

@@ -13,18 +13,18 @@ public:
         // sort the array
         sort(nums.begin(), nums.end());
 
-        for(int i = 0; i < nums.size(); i++){
+        for(int i = 0; i < nums.size(); i++){ // O(n)
             // avoid the duplicates while moving i
             if(i > 0 && nums[i] == nums[i-1]) continue;
             
-            for(int j = i + 1; j < nums.size(); j++){
+            for(int j = i + 1; j < nums.size(); j++){ // O(n)
                 // avoid the duplicates while moving j
                 if(j > i + 1 && nums[j] == nums[j-1]) continue;
                 // 2 pointers
                 int k = j + 1;
                 int l = nums.size() - 1;
 
-                while(k < l){
+                while(k < l){ // O(n)
                     // taking bigger data type to avoid integer overflow
                     long long sum = nums[i];
                     sum += nums[j];

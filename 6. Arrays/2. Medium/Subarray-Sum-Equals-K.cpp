@@ -18,7 +18,7 @@ public:
         for(int i = 0; i < nums.size(); i++){
             // calculate prefix sum
             preSum += nums[i];
-            // calculate the prefix sum (i.e., preSum - k) if remaining subarray
+            // calculate the prefix sum (i.e., preSum - k) of remaining subarray
             int rem = preSum - k;
             // add the occurrence of prefix sum (i.e., preSum - k) to our answer
             count += preSumMap[rem];
