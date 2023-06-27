@@ -2,7 +2,7 @@
 // Leetcode Link : https://leetcode.com/problems/merge-intervals/description/
 // GFG Link : https://bit.ly/3zRz904
 
-// Time Complexity : O(n)
+// Time Complexity : O(nLogn)
 // Space Complexity : O(n)
 
 class Solution {
