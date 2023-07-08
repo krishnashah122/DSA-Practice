@@ -31,7 +31,7 @@ public:
         // if the size of the array is greater than the threshold then return -1
         if(nums.size() > threshold) return -1;
 
-        while(low < high){ // O(m)
+        while(low < high){ // O(Logm)
             int mid = low + (high - low) / 2;
 
             // if mid is possible smallest divisor then search smaller than mid in left part

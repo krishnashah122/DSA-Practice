@@ -41,7 +41,7 @@ public:
         int low = mini;
         int high = maxi;
 
-        while(low < high){ // O(x)
+        while(low < high){ // O(Logx)
             int mid = low + (high - low) / 2;
 
             if(countBouquets(bloomDay, mid, k) < m){

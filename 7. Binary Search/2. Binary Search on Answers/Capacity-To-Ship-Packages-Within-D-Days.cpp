@@ -34,7 +34,7 @@ public:
             high += weights[i];
         }
 
-        while(low < high){ // O(m)
+        while(low < high){ // O(Logm)
             int mid = low + (high - low) / 2;
 
             int noOfDays = findDays(weights, mid, days);
